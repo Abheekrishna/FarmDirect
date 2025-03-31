@@ -1,0 +1,617 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\productdetailsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\productdetailsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\dbhelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\dbhelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\paymentform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\paymentform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\paymentcart.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\paymentcart.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\farmerordersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\farmerordersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\cartmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\cartmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\consumerordersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\consumerordersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\checkoutform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\checkoutform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\consumerproductform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\consumerproductform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\adminordersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\adminordersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\adminproductsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\adminproductsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\adminusersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\adminusersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\adminproductsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\adminproductsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\editproductform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\editproductform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\farmerproductform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\farmerproductform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\editproductform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\editproductform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\adminhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\adminhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\consumerhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\consumerhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\consumerordersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\consumerordersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\farmerproductform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\farmerproductform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\farmerordersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\farmerordersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\farmerhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\farmerhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\signupform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\signupform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\signupform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\signupform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\productdetailsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\productdetailsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\paymentform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\paymentform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\consumerproductform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\consumerproductform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\paymentcart.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\paymentcart.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\checkoutform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\checkoutform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\consumerhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\consumerhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\adminordersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\adminordersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\adminusersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\adminusersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\farmerhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\farmerhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|c:\\users\\abhee\\source\\repos\\farmdirect-2\\farmdirect-2\\adminhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B995935F-D764-4E7E-8A69-804D7A2E17DA}|Farmdirect-2\\Farmdirect-2.vbproj|solutionrelative:farmdirect-2\\adminhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentCart.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\PaymentCart.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\PaymentCart.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\PaymentCart.vb",
+              "RelativeToolTip": "Farmdirect-2\\PaymentCart.vb",
+              "ViewState": "AgIAANoAAAAAmpmZmZkRwJ0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T22:16:47.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaymentCart.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\PaymentCart.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\PaymentCart.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\PaymentCart.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\PaymentCart.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T22:13:12.15Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentForm.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\PaymentForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\PaymentForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\PaymentForm.vb",
+              "RelativeToolTip": "Farmdirect-2\\PaymentForm.vb",
+              "ViewState": "AgIAACIAAAAAMzMzMzMfwCcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T20:23:40.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PaymentForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\PaymentForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\PaymentForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\PaymentForm.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\PaymentForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T20:21:42.133Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\LoginForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\LoginForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\LoginForm.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\LoginForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T14:26:15.891Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FarmerOrdersForm.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\FarmerOrdersForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\FarmerOrdersForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\FarmerOrdersForm.vb",
+              "RelativeToolTip": "Farmdirect-2\\FarmerOrdersForm.vb",
+              "ViewState": "AgIAACoAAAAAMDMzMzPzvxsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T22:47:35.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartModule.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\CartModule.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\CartModule.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\CartModule.vb",
+              "RelativeToolTip": "Farmdirect-2\\CartModule.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T19:07:58.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsumerOrdersForm.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\ConsumerOrdersForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\ConsumerOrdersForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\ConsumerOrdersForm.vb",
+              "RelativeToolTip": "Farmdirect-2\\ConsumerOrdersForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T17:56:08.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConsumerOrdersForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\ConsumerOrdersForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\ConsumerOrdersForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\ConsumerOrdersForm.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\ConsumerOrdersForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T17:51:37.39Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckoutForm.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\CheckoutForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\CheckoutForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\CheckoutForm.vb",
+              "RelativeToolTip": "Farmdirect-2\\CheckoutForm.vb",
+              "ViewState": "AgIAAG4AAAAAZmZmZmYewEsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T17:42:04.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CheckoutForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\CheckoutForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\CheckoutForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\CheckoutForm.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\CheckoutForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T17:07:25.584Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDetailsForm.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\ProductDetailsForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\ProductDetailsForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\ProductDetailsForm.vb",
+              "RelativeToolTip": "Farmdirect-2\\ProductDetailsForm.vb",
+              "ViewState": "AgIAAAkBAAAAkJmZmZn5v/sAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T17:04:25.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductDetailsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\ProductDetailsForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\ProductDetailsForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\ProductDetailsForm.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\ProductDetailsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T16:54:33.956Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsumerProductForm.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\ConsumerProductForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\ConsumerProductForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\ConsumerProductForm.vb",
+              "RelativeToolTip": "Farmdirect-2\\ConsumerProductForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T16:52:16.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ConsumerProductForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\ConsumerProductForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\ConsumerProductForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\ConsumerProductForm.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\ConsumerProductForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T16:36:18.143Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminOrdersForm.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\AdminOrdersForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\AdminOrdersForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\AdminOrdersForm.vb",
+              "RelativeToolTip": "Farmdirect-2\\AdminOrdersForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T16:29:00.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminProductsForm.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\AdminProductsForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\AdminProductsForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\AdminProductsForm.vb",
+              "RelativeToolTip": "Farmdirect-2\\AdminProductsForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T16:28:49.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminUsersForm.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\AdminUsersForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\AdminUsersForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\AdminUsersForm.vb",
+              "RelativeToolTip": "Farmdirect-2\\AdminUsersForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T16:28:43.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminOrdersForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\AdminOrdersForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\AdminOrdersForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\AdminOrdersForm.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\AdminOrdersForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T16:26:28.873Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminProductsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\AdminProductsForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\AdminProductsForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\AdminProductsForm.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\AdminProductsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T16:24:42.161Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminUsersForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\AdminUsersForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\AdminUsersForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\AdminUsersForm.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\AdminUsersForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T16:21:37.927Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditProductForm.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\EditProductForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\EditProductForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\EditProductForm.vb",
+              "RelativeToolTip": "Farmdirect-2\\EditProductForm.vb",
+              "ViewState": "AgIAAIwAAADgZmZmZmYiwJoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T16:18:44.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\Module1.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\Module1.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\Module1.vb",
+              "RelativeToolTip": "Farmdirect-2\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T16:11:35.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditProductForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\EditProductForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\EditProductForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\EditProductForm.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\EditProductForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T16:05:56.757Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FarmerProductForm.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\FarmerProductForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\FarmerProductForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\FarmerProductForm.vb",
+              "RelativeToolTip": "Farmdirect-2\\FarmerProductForm.vb",
+              "ViewState": "AgIAAAUAAACAZmZmZmYowFIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T15:54:38.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FarmerOrdersForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\FarmerOrdersForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\FarmerOrdersForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\FarmerOrdersForm.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\FarmerOrdersForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T15:49:10.22Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FarmerProductForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\FarmerProductForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\FarmerProductForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\FarmerProductForm.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\FarmerProductForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T15:48:55.297Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConsumerHome.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\ConsumerHome.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\ConsumerHome.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\ConsumerHome.vb",
+              "RelativeToolTip": "Farmdirect-2\\ConsumerHome.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T15:46:39.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ConsumerHome.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\ConsumerHome.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\ConsumerHome.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\ConsumerHome.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\ConsumerHome.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T15:45:12.023Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminHome.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\AdminHome.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\AdminHome.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\AdminHome.vb",
+              "RelativeToolTip": "Farmdirect-2\\AdminHome.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T15:44:59.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminHome.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\AdminHome.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\AdminHome.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\AdminHome.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\AdminHome.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T15:42:18.537Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FarmerHome.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\FarmerHome.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\FarmerHome.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\FarmerHome.vb",
+              "RelativeToolTip": "Farmdirect-2\\FarmerHome.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T15:41:51.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FarmerHome.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\FarmerHome.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\FarmerHome.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\FarmerHome.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\FarmerHome.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T15:39:08.954Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SignupForm.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\SignupForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\SignupForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\SignupForm.vb",
+              "RelativeToolTip": "Farmdirect-2\\SignupForm.vb",
+              "ViewState": "AgIAACQAAACAmZmZmZkvwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T15:15:11.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginForm.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\LoginForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\LoginForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\LoginForm.vb",
+              "RelativeToolTip": "Farmdirect-2\\LoginForm.vb",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T14:58:45.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBHelper.vb",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\DBHelper.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\DBHelper.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\DBHelper.vb",
+              "RelativeToolTip": "Farmdirect-2\\DBHelper.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAIA3wA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T14:31:01.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SignupForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\SignupForm.vb",
+              "RelativeDocumentMoniker": "Farmdirect-2\\SignupForm.vb",
+              "ToolTip": "C:\\Users\\abhee\\source\\repos\\Farmdirect-2\\Farmdirect-2\\SignupForm.vb [Design]",
+              "RelativeToolTip": "Farmdirect-2\\SignupForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T14:26:35.279Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

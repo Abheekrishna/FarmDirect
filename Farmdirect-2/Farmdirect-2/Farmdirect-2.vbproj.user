@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminOrdersForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminProductsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminUsersForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CheckoutForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsumerHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsumerOrdersForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsumerProductForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditProductForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FarmerHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FarmerOrdersForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FarmerProductForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\TestDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PaymentCart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PaymentForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductDetailsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignupForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
